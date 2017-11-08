@@ -1,35 +1,33 @@
-# Music Player by Vue Stack
+# Vue Music Player Server And Client
 
-## Clone it
+## 将项目clone到本地
 
 ```bash
-$ git clone https://github.com/zce/music-player.git -b vue --depth 1
+$ git clone https://github.com/
 $ cd music-player
 ```
 
-## Run it
+## 运行项目
 
-### Install Dependencies
+### 安装依赖
 
-```bash
+```
 $ npm install
 ```
 
-### Server Side
+### 启动服务
 
-```bash
+```
 $ npm run serve
 ```
 
-visit http://localhost:2080/music/list in browser
+在浏览器访问： http://localhost:2080/music/list 
 
-### Client Side
+### 启动客户端
 
-Open another Terminal and run:
-
-```bash
+```
 $ npm run client
 ```
 
-visit http://localhost:3000 in browser
+在浏览器访问： http://localhost:3000 
 
