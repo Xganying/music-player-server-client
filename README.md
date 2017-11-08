@@ -3,8 +3,8 @@
 ## 将项目clone到本地
 
 ```bash
-$ git clone https://github.com/
-$ cd music-player
+$ git clone https://github.com/Xganying/vue-music-player-server-and-client.git
+$ cd vue-music-player-server-and-client
 ```
 
 ## 运行项目
